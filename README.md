@@ -3,4 +3,19 @@ BODR
 
 Blue Obelisk Data Repository - your one stop place of element and isotope data.
 
-Fork to correct groups of some of the chemical elements.
+=======
+Download
+========
+
+* Debian package: https://packages.debian.org/search?keywords=bodr
+
+How to Cite
+===========
+
+If you use this library, please cite:
+
+    Guha, R., Howard, M. T., Hutchison, G. R., Murray-Rust, P., Rzepa, H., Steinbeck, C.,
+    Wegner, J., Willighagen, E. L., May 2006. The Blue Obelisk - interoperability in
+    chemical informatics. J. Chem. Inf. Model. 46 (3), 991-998.
+
+See http://dx.doi.org/10.1021/ci050400b
